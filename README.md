@@ -1,7 +1,9 @@
 #Todo List Project
+
 Welcome to the Todo List project! This project is part of my journey in learning JavaScript from the javascript-full-course-2023 curriculum. The main objective of this project is to create a simple todo list where tasks can be added and removed along with their due dates. Let's dive into the details of the project.
 
 ##Project Overview
+
 The project consists of three main files: index.html, todo-list.css, and todo-list.js.
 
 ###index.html
