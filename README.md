@@ -6,7 +6,7 @@ Welcome to the Todo List project! This project is part of my journey in learning
 
 The project consists of three main files: index.html, todo-list.css, and todo-list.js.
 
-###index.html
+### index.html
 This file serves as the user interface for the todo list. It contains the necessary HTML elements to display the todo list and allow users to interact with it. The key components of the HTML file are:
 
 A title "Todo List"
